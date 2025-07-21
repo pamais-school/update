@@ -1,7 +1,7 @@
 ;aiu;
 [Update]
 Name=Multi School
-ProductVersion=1.0.5
+ProductVersion=1.0.6
 URL=https://www.dropbox.com/scl/fi/8yiztngc2k14hp2klu1d4/update.exe?rlkey=gbsrfus548f87shwlgpioqzke&st=eodsstxp&dl=1
 Size=12345678
 MD5=994A45ABAE5183E0A6765B7A79B3ECD5
