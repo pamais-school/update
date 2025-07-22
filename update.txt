@@ -1,8 +1,14 @@
 ;aiu;
 [Update]
 Name=Multi School
-ProductVersion=1.0.7
+ProductVersion=1.0.8
 URL=http://pamainternationalschool.com/update.exe
 Size=12345678
 MD5=994A45ABAE5183E0A6765B7A79B3ECD5
 ServerFileName=update.exe
+
+[Changelog]
+- ✨ Added feature to export reports to PDF.
+- 🐛 Fixed a bug where student records would not save correctly.
+- 🎨 Improved the user interface of the main dashboard.
+- ⚡ Performance enhancements in the search module.
