@@ -4,7 +4,7 @@ Name=Multi School
 ProductVersion=1.0.8
 URL=http://pamainternationalschool.com/update.exe
 Size=12345678
-MD5=8CE9BDB4235CBE3852D42472530220BD
+MD5=6B7D76CF509660C41C77EBD408D6A2AE
 ServerFileName=update.exe
 
 [Changelog]
