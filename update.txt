@@ -1,7 +1,7 @@
 ;aiu;
 [Update]
 Name=Multi School
-ProductVersion=1.0.8
+ProductVersion=1.0.9
 URL=http://pamainternationalschool.com/update.exe
 Size=12345678
 MD5=AAEA9D4199B7AB71CBDC7F4E58C21A3F
